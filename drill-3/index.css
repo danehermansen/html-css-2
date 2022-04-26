@@ -1,0 +1,42 @@
+
+
+
+
+header {
+    height: 100px;
+    width: 1500px;
+    background-color: grey;
+}
+div {
+    height: 75px;
+    width: 75px;
+    background-color: skyblue;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+    position: relative;
+    top: 0px;
+}
+#lineone {
+    height: 100px;
+    width: 1500px;
+    background-color: blue; 
+    margin-left: 0px;
+
+}
+#linetwo {
+    height: 100px;
+    width: 1500px;
+    background-color: seagreen;
+}
+#linethree {
+    height: 100px;
+    width: 1500px;
+    background-color: palegoldenrod;
+}

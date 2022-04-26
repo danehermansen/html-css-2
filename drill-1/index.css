@@ -1,0 +1,36 @@
+body {
+    margin:0;
+    background-color: lightgrey;
+    width: 100%;
+    height: 100vh;
+    z-index: 3;
+}
+
+header {
+    height: 50px;
+    width: 1500px;
+    background-color: grey;
+    margin: 0px;
+    z-index: 5;
+    
+
+}
+
+main {
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 80vh;
+    z-index: 0;
+}
+
+footer {
+    background-color: black;
+    margin: 0 auto;
+    height: 100vh;
+    width: 75%;
+    z-index: 5;
+
+
+}
+
